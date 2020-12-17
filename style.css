@@ -55,7 +55,10 @@ a:hover {
 .bloc-sm {
     padding: 20px 50px;
 }
-
+p.presentation, p.commentaire, p.auteur, p.pub{
+    color: gray;
+    text-align: center;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
