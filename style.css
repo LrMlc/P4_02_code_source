@@ -6,7 +6,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.citation {
+    font-style: italic;
+    text-align: center;
+    margin-left: 10px;
+    font-weight: normal;
+    color: #333333;
+  }
 a,
 button {
     transition: all .3s ease-in-out;
@@ -54,10 +60,6 @@ a:hover {
 
 .bloc-sm {
     padding: 20px 50px;
-}
-p.presentation, p.commentaire, p.auteur, p.pub{
-    color: gray;
-    text-align: center;
 }
 .bg-center,
 .bg-l-edge,
