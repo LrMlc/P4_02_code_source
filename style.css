@@ -830,7 +830,7 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 a.twitter, a.facebook, a.dribble, a.instagram {
-    color: black;
+    color: black!important;
 }
 @media (max-width: 1024px) {
     .bloc {
