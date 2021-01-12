@@ -514,6 +514,9 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
+.form-group{
+    padding-bottom: 8px;
+}
 
 .scrollToTop {
     width: 40px;
